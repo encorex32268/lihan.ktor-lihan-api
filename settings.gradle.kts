@@ -1,0 +1,1 @@
+rootProject.name = "lihan.ktor-lihan-api"
